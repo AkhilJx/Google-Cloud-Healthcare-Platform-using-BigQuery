@@ -1,5 +1,5 @@
 # Google-Cloud-Healthcare-Platform using BigQuery
-various google cloud operations to facilitate Google Cloud Healthcare API
+various google cloud operations to facilitate Google Cloud Healthcare API using BigQuery
 
 This repository/program was a part of investigating FHIR / Dicom formats of healthcare data. 
 
